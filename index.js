@@ -29,8 +29,8 @@ client.on('ready', async () => {
     .setState('𝟓/𝟏𝟎/𝟔𝟓')
     .setName('𝐯𝐱𝐥𝐞𝐧.𝐳')
     
- .setAssetsLargeImage('https://media.discordapp.net/attachments/1373190165274558616/1389995739534327838/0e1f8367d81e6f161d198a0b5011a62f.gif?ex=6866a5e9&is=68655469&hm=1e3dc491274ac17536bb71bbb9d1cd493fdeec6e7f273cf11a954e71aae8c74e&=&width=500&height=385') //You can put links in tenor or discord and etc.
-    .setAssetsLargeText('𝟏𝟎𝟎𝟔 𝐃𝐀𝐘 𝐖𝐈𝐓𝐇 𝐔') //Text when you hover the Large image
+ .setAssetsLargeImage('https://31.media.tumblr.com/28fd3feae07b8f32355bad331d0ef6c7/tumblr_mhet2eDOOV1rec05yo1_500.gif') //You can put links in tenor or discord and etc.
+    .setAssetsLargeText('𝟏𝟎𝟓𝟖 𝐃𝐀𝐘 𝐖𝐈𝐓𝐇 𝐔') //Text when you hover the Large image
    
     .addButton('𝐦𝐞', 'https://linktr.ee/br0510')
   .addButton(`𝐒𝐭𝐞𝐚𝐦`, `https://steamcommunity.com/id/nopeeth/`);
