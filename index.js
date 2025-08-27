@@ -29,7 +29,7 @@ client.on('ready', async () => {
     .setState('𝟓/𝟏𝟎/𝟔𝟓')
     .setName('𝐯𝐱𝐥𝐞𝐧.𝐳')
     
- .setAssetsLargeImage('https://31.media.tumblr.com/28fd3feae07b8f32355bad331d0ef6c7/tumblr_mhet2eDOOV1rec05yo1_500.gif') //You can put links in tenor or discord and etc.
+ .setAssetsLargeImage('images-ext-1.discordapp.net/external/scJOH8jG0zOxomBS0uPGrtPK4N4H_WsIzFG2Cb2CGDg/https/media.tenor.com/cQzRWAWrN6kAAAPo/ichigo-hiro.mp4') //You can put links in tenor or discord and etc.
     .setAssetsLargeText('𝟏𝟎𝟓𝟖 𝐃𝐀𝐘 𝐖𝐈𝐓𝐇 𝐔') //Text when you hover the Large image
    
     .addButton('𝐦𝐞', 'https://linktr.ee/br0510')
