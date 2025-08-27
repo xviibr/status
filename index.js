@@ -29,7 +29,7 @@ client.on('ready', async () => {
     .setState('𝟓/𝟏𝟎/𝟔𝟓')
     .setName('𝐯𝐱𝐥𝐞𝐧.𝐳')
     
- .setAssetsLargeImage('tenor.com/view/dabi-gif-22002611') //You can put links in tenor or discord and etc.
+ .setAssetsLargeImage('https://media.tenor.com/Y_4_saaGYwUAAAAM/jujutsu-kaisen-mahito.gif') //You can put links in tenor or discord and etc.
     .setAssetsLargeText('𝟏𝟎𝟓𝟖 𝐃𝐀𝐘 𝐖𝐈𝐓𝐇 𝐔') //Text when you hover the Large image
    
     .addButton('𝐦𝐞', 'https://linktr.ee/br0510')
